@@ -27,20 +27,25 @@ Concepts used - forward pass, uniform crossover and genetic algorithm. It is pre
 1. Clone this repo
  
    git clone https://github.com/kgla311/flappy-ai.git
+   
    cd flappy-ai
    
 2.Install SDL2:
 
   On Ubuntu:
+  
     sudo apt install libsdl2-dev
   
   On Arch Linux:
+  
     sudo pacman -S sdl2
   
 On Windows: Use vcpkg or install manually from libsdl.org
 
 3.Build and Run
+
   g++ -std=c++17 -O2 ai.cpp -lSDL2 -o flappy_ai
+  
   ./flappy_ai
 
 I built it on windows(using manual installation of SDL2) and tested on Arch(works normaly), i don`t know how it would work on MacOs, but it should work normaly
