@@ -2,7 +2,7 @@
 
 This is a C++ AI neural network that learns to play Flappy Bird using evolutionary neural networks.
 
-Video representation: https://drive.google.com/file/d/1v34HgqXCBgKKi924h25iFeO8CTLYvFNh/view?usp=sharing
+Video demo: https://drive.google.com/file/d/1v34HgqXCBgKKi924h25iFeO8CTLYvFNh/view?usp=sharing
 
 ## Features:
 
